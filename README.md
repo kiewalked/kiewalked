@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kieran Nguyen</h1>
 <h3 align="center">A curious graduate, looking for opportunities in full-stack development</h3>
 
-- 🔭 I’m currently working on **my personal website**
+#### About Me
 
-- 🌱 I’m currently learning **React**
+💻 I previously completed my Thesis on physical health intervention for early-stage psychosis patients.
 
-- 📫 How to reach me **kieran.nguyen04@gmail.com**
+🥒 I’m currently working on [my personal website](https://kiewalked.github.io/) and a website for a local pickleball club!
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gPzsK5heQHDUwWlPl5pKQjGuiPo2nc-xy-0QVtw7PwM/edit?tab=t.0](https://docs.google.com/document/d/1gPzsK5heQHDUwWlPl5pKQjGuiPo2nc-xy-0QVtw7PwM/edit?tab=t.0)
+🌱 I’m currently learning about full-stack web development & containerization
 
-- 🥏 Fun fact **I play Ultimate Frisbee for a Division II Nationals Team**
+📄 Learn more about my experience on [LinkedIn](https://www.linkedin.com/in/kieran-nguyen-432119245/) and my [resume](<[https://docs.google.com/document/d/1gPzsK5heQHDUwWlPl5pKQjGuiPo2nc-xy-0QVtw7PwM/edit?tab=t.0](https://docs.google.com/document/d/1gPzsK5heQHDUwWlPl5pKQjGuiPo2nc-xy-0QVtw7PwM/edit?tab=t.0)>)
+
+🥏 In my free time, I play Ultimate Frisbee for a Division II Nationals Team
+
+✉️ Feel free to reach me at kieran.nguyen04@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
